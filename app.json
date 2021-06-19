@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "PlanIO",
+    "slug": "PlanIO",
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f5f0e7"
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 500,
+      "checkAutomatically": "ON_LOAD"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "reqill.PlanIO.v092"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "",
+    "android": {
+      "package": "reqill.PlanIO.v092"
+    }
+  }
+}
